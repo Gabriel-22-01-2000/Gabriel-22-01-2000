@@ -1,4 +1,4 @@
-[![Hello 👋🏻](https://pbs.twimg.com/profile_banners/214395203/1609525620/1500x500)][1]
+[![Hello 👋🏻](https://github.com/Gabriel-22-01-2000/Gabriel-22-01-2000/blob/main/2021-01-07_23-59-50.jpg?raw=true)][1]
 
 Hey 👋🏻,
 
