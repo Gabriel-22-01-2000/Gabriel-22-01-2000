@@ -10,8 +10,8 @@ You can see what I'm currently doing on this site [natterstefan.me] [1].
 
 ## 📬 Get in touch
 
-- Web: [natterstefan.me][1]
-- LinkedIn: [linkedin.com/in/natterstefan][2]
+- Web: [https://gajuarezdelac.github.io/my_portafolio][1]
+- LinkedIn: [https://www.linkedin.com/in/gabriel-adrian-juarez-de-la-cruz-82a070179][2]
 
 ## &#x1f4c8; My GitHub Stats
 
@@ -23,15 +23,3 @@ You can see what I'm currently doing on this site [natterstefan.me] [1].
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-22-01-2000&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 </a>
 
-[1]:
-  https://natterstefan.me/?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
-[2]: https://www.linkedin.com/in/natterstefan
-[3]: https://www.twitter.com/natterstefan
-[4]: https://blog.natterstefan.me
-[5]:
-  https://newsletter.natterstefan.me?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
-[6]: https://medium.com/@natterstefan
-[7]: https://hashnode.com/@natterstefan
-[8]: https://nttr.st/2QoQhEb
-[9]: https://nttr.st/2YEatXb
-[10]: https://dev.to/natterstefan
