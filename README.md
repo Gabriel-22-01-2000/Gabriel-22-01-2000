@@ -10,8 +10,8 @@ You can see what I'm currently doing on this site [natterstefan.me] [1].
 
 ## 📬 Get in touch
 
-- Web: [https://gajuarezdelac.github.io/my_portafolio/][1]
-- LinkedIn: [https://www.linkedin.com/in/gabriel-adrian-juarez-de-la-cruz-82a070179][2]
+- Web: [https://gajuarezdelac.github.io/my_portafolio/]
+- LinkedIn: [https://www.linkedin.com/in/gabriel-adrian-juarez-de-la-cruz-82a070179]
 
 ## &#x1f4c8; My GitHub Stats
 
