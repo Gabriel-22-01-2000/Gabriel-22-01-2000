@@ -1,4 +1,4 @@
-[![Hello 👋🏻](https://github.com/Gabriel-22-01-2000/Gabriel-22-01-2000/blob/main/2021-01-07_23-59-50.jpg?raw=true)][1]
+![Hello 👋🏻](https://github.com/Gabriel-22-01-2000/Gabriel-22-01-2000/blob/main/2021-01-07_23-59-50.jpg?raw=true)[1]
 
 Hola 👋🏻,
 
@@ -10,7 +10,7 @@ You can see what I'm currently doing on this site [natterstefan.me] [1].
 
 ## 📬 Get in touch
 
-- Web: [https://gajuarezdelac.github.io/my_portafolio][1]
+- Web: [https://gajuarezdelac.github.io/my_portafolio/][1]
 - LinkedIn: [https://www.linkedin.com/in/gabriel-adrian-juarez-de-la-cruz-82a070179][2]
 
 ## &#x1f4c8; My GitHub Stats
