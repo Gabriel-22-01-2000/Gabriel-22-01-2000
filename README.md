@@ -1,11 +1,9 @@
 
 Hola 👋🏻,
 
-I am a Front End Developer currently working in Mexico, 
+I am a Software Developer currently working in Mexico, 
 I am interested in digital marketing, I write and develop 
 software solutions (open source) with JavaScript, ReactJs and NodeJS
-
-You can see what I'm currently doing on this site [natterstefan.me] [1].
 
 ## 📬 Get in touch
 
