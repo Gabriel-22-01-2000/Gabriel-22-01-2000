@@ -9,7 +9,7 @@ You can see what I'm currently doing on this site [natterstefan.me] [1].
 
 ## 📬 Get in touch
 
-- <a href="https://github.com/gajuarezdelac" target="_blank"> Mi sitio Personal </a>
+- <a href="https://gajuarezdelac.github.io/" target="_blank"> Mi sitio Personal </a>
 - <a href="https://www.linkedin.com/in/gabriel-adrian-juarez-de-la-cruz-82a070179" target="_blank"> Linkeding </a>
 
 ## &#x1f4c8; My GitHub Stats
