@@ -8,7 +8,7 @@ software solutions (open source) with JavaScript, ReactJs and NodeJS
 ## 📬 Get in touch
 
 - <a href="https://gajuarezdelac.github.io/" target="_blank"> Mi sitio Personal </a>
-- <a href="https://www.linkedin.com/in/gabriel-adrian-juarez-de-la-cruz-82a070179" target="_blank"> linkedin </a>
+- <a href="https://www.linkedin.com/in/gabriel-juarez-de-la-cruz-82a070179/" target="_blank"> linkedin </a>
 
 ## &#x1f4c8; My GitHub Stats
 
